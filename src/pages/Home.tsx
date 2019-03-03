@@ -5,8 +5,8 @@ const Home: React.SFC = () => (
     <h1>Hello, I'm Joachim</h1>
     <TypableContainer
       period={2000}
-      text="I am "
-      stack={["from Norway.","a Software Engineer.", "a IT Technician.", "a Sysadmin.", "and a nice guy!"]}
+      text="I write code for a living. I'm also a "
+      stack={["Software Engineer.", "IT Technician.", "Sysadmin.", "nice guy!"]}
     />
   </div>
 );
